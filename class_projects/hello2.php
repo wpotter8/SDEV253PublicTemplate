@@ -1,3 +1,3 @@
 <?php
-echo "Hello World 2 The Second Coming";
+echo "Hello, again! I am learning PHP.";
 ?>
